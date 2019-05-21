@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    background: url('../../images/background.png') center no-repeat;
+}
+
+.main__wrapper {
+    width: 940px;
+    height: 100%;
+}
